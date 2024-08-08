@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BudgetTracking\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj",
+      "projectUniqueName": "D:\\BudgetTrackingProject\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj",
       "projectName": "BudgetTracking.DtoLayer",
-      "projectPath": "D:\\BudgetTracking\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj",
+      "projectPath": "D:\\BudgetTrackingProject\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj",
       "packagesPath": "C:\\Users\\Gamze Blbn\\.nuget\\packages\\",
-      "outputPath": "D:\\BudgetTracking\\BudgetTracking.DtoLayer\\obj\\",
+      "outputPath": "D:\\BudgetTrackingProject\\BudgetTracking.DtoLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gamze Blbn\\AppData\\Roaming\\NuGet\\NuGet.Config",

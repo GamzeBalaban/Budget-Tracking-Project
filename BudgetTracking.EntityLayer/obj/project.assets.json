@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BudgetTracking\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj",
+      "projectUniqueName": "D:\\BudgetTrackingProject\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj",
       "projectName": "BudgetTracking.EntityLayer",
-      "projectPath": "D:\\BudgetTracking\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj",
+      "projectPath": "D:\\BudgetTrackingProject\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj",
       "packagesPath": "C:\\Users\\Gamze Blbn\\.nuget\\packages\\",
-      "outputPath": "D:\\BudgetTracking\\BudgetTracking.EntityLayer\\obj\\",
+      "outputPath": "D:\\BudgetTrackingProject\\BudgetTracking.EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gamze Blbn\\AppData\\Roaming\\NuGet\\NuGet.Config",
