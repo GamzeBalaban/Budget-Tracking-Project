@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BudgetWebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15bf024f1176be4ef89561451d64d16c9f0c462a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c78182ee15a6ee5a65d0d27a9c3325980cb9b9a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BudgetWebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BudgetWebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
