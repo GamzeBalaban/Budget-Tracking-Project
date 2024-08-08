@@ -1,0 +1,11 @@
+D:\BudgetTracking\BudgetTracking.EntityLayer\bin\Debug\net6.0\BudgetTracking.EntityLayer.deps.json
+D:\BudgetTracking\BudgetTracking.EntityLayer\bin\Debug\net6.0\BudgetTracking.EntityLayer.dll
+D:\BudgetTracking\BudgetTracking.EntityLayer\bin\Debug\net6.0\BudgetTracking.EntityLayer.pdb
+D:\BudgetTracking\BudgetTracking.EntityLayer\obj\Debug\net6.0\BudgetTracking.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\BudgetTracking\BudgetTracking.EntityLayer\obj\Debug\net6.0\BudgetTracking.EntityLayer.AssemblyInfoInputs.cache
+D:\BudgetTracking\BudgetTracking.EntityLayer\obj\Debug\net6.0\BudgetTracking.EntityLayer.AssemblyInfo.cs
+D:\BudgetTracking\BudgetTracking.EntityLayer\obj\Debug\net6.0\BudgetTracking.EntityLayer.csproj.CoreCompileInputs.cache
+D:\BudgetTracking\BudgetTracking.EntityLayer\obj\Debug\net6.0\BudgetTracking.EntityLayer.dll
+D:\BudgetTracking\BudgetTracking.EntityLayer\obj\Debug\net6.0\refint\BudgetTracking.EntityLayer.dll
+D:\BudgetTracking\BudgetTracking.EntityLayer\obj\Debug\net6.0\BudgetTracking.EntityLayer.pdb
+D:\BudgetTracking\BudgetTracking.EntityLayer\obj\Debug\net6.0\ref\BudgetTracking.EntityLayer.dll

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetAPI", "BudgetAPI\BudgetAPI.csproj", "{F4CFDDBF-B14C-45C0-B63D-BBC1855F5640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetWebUI", "BudgetWebUI\BudgetWebUI.csproj", "{083464C6-001B-4EDA-A753-AD265480C87B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracking.EntityLayer", "BudgetTracking.EntityLayer\BudgetTracking.EntityLayer.csproj", "{1F4DED5E-3410-4B4E-9832-EA2FF830B892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracking.DataAccessLayer", "BudgetTracking.DataAccessLayer\BudgetTracking.DataAccessLayer.csproj", "{B2B288E6-E167-4077-A5BC-5D5C18FC5777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracking.DtoLayer", "BudgetTracking.DtoLayer\BudgetTracking.DtoLayer.csproj", "{6B2CC069-2D24-4343-A61A-6A48C0305410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracking.BusinessLayer", "BudgetTracking.BusinessLayer\BudgetTracking.BusinessLayer.csproj", "{B927611A-94FA-49CD-8721-4F0A9BF084AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4CFDDBF-B14C-45C0-B63D-BBC1855F5640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CFDDBF-B14C-45C0-B63D-BBC1855F5640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CFDDBF-B14C-45C0-B63D-BBC1855F5640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CFDDBF-B14C-45C0-B63D-BBC1855F5640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083464C6-001B-4EDA-A753-AD265480C87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083464C6-001B-4EDA-A753-AD265480C87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083464C6-001B-4EDA-A753-AD265480C87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083464C6-001B-4EDA-A753-AD265480C87B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F4DED5E-3410-4B4E-9832-EA2FF830B892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4DED5E-3410-4B4E-9832-EA2FF830B892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4DED5E-3410-4B4E-9832-EA2FF830B892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4DED5E-3410-4B4E-9832-EA2FF830B892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B288E6-E167-4077-A5BC-5D5C18FC5777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B288E6-E167-4077-A5BC-5D5C18FC5777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B288E6-E167-4077-A5BC-5D5C18FC5777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B288E6-E167-4077-A5BC-5D5C18FC5777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B2CC069-2D24-4343-A61A-6A48C0305410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2CC069-2D24-4343-A61A-6A48C0305410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2CC069-2D24-4343-A61A-6A48C0305410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2CC069-2D24-4343-A61A-6A48C0305410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B927611A-94FA-49CD-8721-4F0A9BF084AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B927611A-94FA-49CD-8721-4F0A9BF084AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B927611A-94FA-49CD-8721-4F0A9BF084AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B927611A-94FA-49CD-8721-4F0A9BF084AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5799A0A-1622-41BE-88ED-CA9FFB4EB254}
+	EndGlobalSection
+EndGlobal

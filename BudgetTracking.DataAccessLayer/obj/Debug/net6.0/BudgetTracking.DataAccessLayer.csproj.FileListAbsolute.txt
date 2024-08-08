@@ -1,0 +1,17 @@
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\bin\Debug\net6.0\BudgetTracking.DataAccessLayer.deps.json
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\bin\Debug\net6.0\BudgetTracking.DataAccessLayer.runtimeconfig.json
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\bin\Debug\net6.0\BudgetTracking.DataAccessLayer.dll
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\bin\Debug\net6.0\BudgetTracking.DataAccessLayer.pdb
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\bin\Debug\net6.0\BudgetTracking.EntityLayer.dll
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\bin\Debug\net6.0\BudgetTracking.EntityLayer.pdb
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\obj\Debug\net6.0\BudgetTracking.DataAccessLayer.csproj.AssemblyReference.cache
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\obj\Debug\net6.0\BudgetTracking.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\obj\Debug\net6.0\BudgetTracking.DataAccessLayer.AssemblyInfoInputs.cache
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\obj\Debug\net6.0\BudgetTracking.DataAccessLayer.AssemblyInfo.cs
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\obj\Debug\net6.0\BudgetTracking.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\obj\Debug\net6.0\BudgetTr.D4F41812.Up2Date
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\obj\Debug\net6.0\BudgetTracking.DataAccessLayer.dll
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\obj\Debug\net6.0\refint\BudgetTracking.DataAccessLayer.dll
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\obj\Debug\net6.0\BudgetTracking.DataAccessLayer.pdb
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\obj\Debug\net6.0\BudgetTracking.DataAccessLayer.genruntimeconfig.cache
+D:\BudgetTracking\BudgetTracking.DataAccessLayer\obj\Debug\net6.0\ref\BudgetTracking.DataAccessLayer.dll

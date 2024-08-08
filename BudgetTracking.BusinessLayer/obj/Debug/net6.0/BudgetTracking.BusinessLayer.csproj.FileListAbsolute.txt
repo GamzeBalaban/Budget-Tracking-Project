@@ -1,0 +1,17 @@
+D:\BudgetTracking\BudgetTracking.BusinessLayer\bin\Debug\net6.0\BudgetTracking.BusinessLayer.deps.json
+D:\BudgetTracking\BudgetTracking.BusinessLayer\bin\Debug\net6.0\BudgetTracking.BusinessLayer.dll
+D:\BudgetTracking\BudgetTracking.BusinessLayer\bin\Debug\net6.0\BudgetTracking.BusinessLayer.pdb
+D:\BudgetTracking\BudgetTracking.BusinessLayer\bin\Debug\net6.0\BudgetTracking.DataAccessLayer.dll
+D:\BudgetTracking\BudgetTracking.BusinessLayer\bin\Debug\net6.0\BudgetTracking.EntityLayer.dll
+D:\BudgetTracking\BudgetTracking.BusinessLayer\bin\Debug\net6.0\BudgetTracking.DataAccessLayer.pdb
+D:\BudgetTracking\BudgetTracking.BusinessLayer\bin\Debug\net6.0\BudgetTracking.EntityLayer.pdb
+D:\BudgetTracking\BudgetTracking.BusinessLayer\obj\Debug\net6.0\BudgetTracking.BusinessLayer.csproj.AssemblyReference.cache
+D:\BudgetTracking\BudgetTracking.BusinessLayer\obj\Debug\net6.0\BudgetTracking.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\BudgetTracking\BudgetTracking.BusinessLayer\obj\Debug\net6.0\BudgetTracking.BusinessLayer.AssemblyInfoInputs.cache
+D:\BudgetTracking\BudgetTracking.BusinessLayer\obj\Debug\net6.0\BudgetTracking.BusinessLayer.AssemblyInfo.cs
+D:\BudgetTracking\BudgetTracking.BusinessLayer\obj\Debug\net6.0\BudgetTracking.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\BudgetTracking\BudgetTracking.BusinessLayer\obj\Debug\net6.0\BudgetTr.8F6891A5.Up2Date
+D:\BudgetTracking\BudgetTracking.BusinessLayer\obj\Debug\net6.0\BudgetTracking.BusinessLayer.dll
+D:\BudgetTracking\BudgetTracking.BusinessLayer\obj\Debug\net6.0\refint\BudgetTracking.BusinessLayer.dll
+D:\BudgetTracking\BudgetTracking.BusinessLayer\obj\Debug\net6.0\BudgetTracking.BusinessLayer.pdb
+D:\BudgetTracking\BudgetTracking.BusinessLayer\obj\Debug\net6.0\ref\BudgetTracking.BusinessLayer.dll
