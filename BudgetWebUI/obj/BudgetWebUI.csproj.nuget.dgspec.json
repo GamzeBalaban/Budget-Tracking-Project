@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BudgetTracking\\BudgetWebUI\\BudgetWebUI.csproj": {}
+    "D:\\BudgetTrackingProject\\BudgetWebUI\\BudgetWebUI.csproj": {}
   },
   "projects": {
-    "D:\\BudgetTracking\\BudgetWebUI\\BudgetWebUI.csproj": {
+    "D:\\BudgetTrackingProject\\BudgetWebUI\\BudgetWebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BudgetTracking\\BudgetWebUI\\BudgetWebUI.csproj",
+        "projectUniqueName": "D:\\BudgetTrackingProject\\BudgetWebUI\\BudgetWebUI.csproj",
         "projectName": "BudgetWebUI",
-        "projectPath": "D:\\BudgetTracking\\BudgetWebUI\\BudgetWebUI.csproj",
+        "projectPath": "D:\\BudgetTrackingProject\\BudgetWebUI\\BudgetWebUI.csproj",
         "packagesPath": "C:\\Users\\Gamze Blbn\\.nuget\\packages\\",
-        "outputPath": "D:\\BudgetTracking\\BudgetWebUI\\obj\\",
+        "outputPath": "D:\\BudgetTrackingProject\\BudgetWebUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gamze Blbn\\AppData\\Roaming\\NuGet\\NuGet.Config",

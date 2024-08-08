@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gy9hocSOJLBsUaTkF6lPE25e25aTbV2AzwWh4dUXN5egyq5f0heFDAgsaKGjxIQ7j0rANG0jjNu4JRis3R/BKQ==",
+  "dgSpecHash": "NrpInXmhEDecLSAgjjKZPpTU3nLcHm7J8pHamga7eq2JTZ6Ix1N5k4Dsk5kvK8zXXiX5VV7yau6RL/uenrEGlw==",
   "success": true,
-  "projectFilePath": "D:\\BudgetTracking\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj",
+  "projectFilePath": "D:\\BudgetTrackingProject\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

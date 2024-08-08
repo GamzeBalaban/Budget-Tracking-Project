@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pmdV+bDZih2p5j+K3RELJGypohP8J+exg/zB4fDvNLjPGs1Evx88eHAlkwDhzzlZbXht6OjiLkqbMc66f+sw3g==",
+  "dgSpecHash": "eFJa6kp5EicEgRc2iUCa36mqWpUgXAu3r9nnCMvVyLvSCgXBvzMzWjLgViZk8QPJloZNKA27eznKxfaBHcki2Q==",
   "success": true,
-  "projectFilePath": "D:\\BudgetTracking\\BudgetAPI\\BudgetAPI.csproj",
+  "projectFilePath": "D:\\BudgetTrackingProject\\BudgetAPI\\BudgetAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gamze Blbn\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Gamze Blbn\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/avDGJqhXxhCEMba2J+wQUxpUP5h+oI9bBg3sgMkvFemT7Ndx/y6T8/pUTCocUfy8H5FBaVe6FRxAuZhl0KCbg==",
+  "dgSpecHash": "CsiQf/69uwaz7VIaqxQhehrNZnyywoW++sgF9o4H32aJHKArecMSLMMWGcc8nvI5ek9HKq6b1IQUu2UTk+7AhQ==",
   "success": true,
-  "projectFilePath": "D:\\BudgetTracking\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj",
+  "projectFilePath": "D:\\BudgetTrackingProject\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

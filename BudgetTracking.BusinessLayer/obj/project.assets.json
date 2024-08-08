@@ -1950,11 +1950,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BudgetTracking\\BudgetTracking.BusinessLayer\\BudgetTracking.BusinessLayer.csproj",
+      "projectUniqueName": "D:\\BudgetTrackingProject\\BudgetTracking.BusinessLayer\\BudgetTracking.BusinessLayer.csproj",
       "projectName": "BudgetTracking.BusinessLayer",
-      "projectPath": "D:\\BudgetTracking\\BudgetTracking.BusinessLayer\\BudgetTracking.BusinessLayer.csproj",
+      "projectPath": "D:\\BudgetTrackingProject\\BudgetTracking.BusinessLayer\\BudgetTracking.BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\Gamze Blbn\\.nuget\\packages\\",
-      "outputPath": "D:\\BudgetTracking\\BudgetTracking.BusinessLayer\\obj\\",
+      "outputPath": "D:\\BudgetTrackingProject\\BudgetTracking.BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gamze Blbn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1971,8 +1971,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\BudgetTracking\\BudgetTracking.DataAccessLayer\\BudgetTracking.DataAccessLayer.csproj": {
-              "projectPath": "D:\\BudgetTracking\\BudgetTracking.DataAccessLayer\\BudgetTracking.DataAccessLayer.csproj"
+            "D:\\BudgetTrackingProject\\BudgetTracking.DataAccessLayer\\BudgetTracking.DataAccessLayer.csproj": {
+              "projectPath": "D:\\BudgetTrackingProject\\BudgetTracking.DataAccessLayer\\BudgetTracking.DataAccessLayer.csproj"
             }
           }
         }

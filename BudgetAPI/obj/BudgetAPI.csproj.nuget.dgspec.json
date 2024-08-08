@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BudgetTracking\\BudgetAPI\\BudgetAPI.csproj": {}
+    "D:\\BudgetTrackingProject\\BudgetAPI\\BudgetAPI.csproj": {}
   },
   "projects": {
-    "D:\\BudgetTracking\\BudgetAPI\\BudgetAPI.csproj": {
+    "D:\\BudgetTrackingProject\\BudgetAPI\\BudgetAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BudgetTracking\\BudgetAPI\\BudgetAPI.csproj",
+        "projectUniqueName": "D:\\BudgetTrackingProject\\BudgetAPI\\BudgetAPI.csproj",
         "projectName": "BudgetAPI",
-        "projectPath": "D:\\BudgetTracking\\BudgetAPI\\BudgetAPI.csproj",
+        "projectPath": "D:\\BudgetTrackingProject\\BudgetAPI\\BudgetAPI.csproj",
         "packagesPath": "C:\\Users\\Gamze Blbn\\.nuget\\packages\\",
-        "outputPath": "D:\\BudgetTracking\\BudgetAPI\\obj\\",
+        "outputPath": "D:\\BudgetTrackingProject\\BudgetAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gamze Blbn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\BudgetTracking\\BudgetTracking.BusinessLayer\\BudgetTracking.BusinessLayer.csproj": {
-                "projectPath": "D:\\BudgetTracking\\BudgetTracking.BusinessLayer\\BudgetTracking.BusinessLayer.csproj"
+              "D:\\BudgetTrackingProject\\BudgetTracking.BusinessLayer\\BudgetTracking.BusinessLayer.csproj": {
+                "projectPath": "D:\\BudgetTrackingProject\\BudgetTracking.BusinessLayer\\BudgetTracking.BusinessLayer.csproj"
               },
-              "D:\\BudgetTracking\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj": {
-                "projectPath": "D:\\BudgetTracking\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj"
+              "D:\\BudgetTrackingProject\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj": {
+                "projectPath": "D:\\BudgetTrackingProject\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "D:\\BudgetTracking\\BudgetTracking.BusinessLayer\\BudgetTracking.BusinessLayer.csproj": {
+    "D:\\BudgetTrackingProject\\BudgetTracking.BusinessLayer\\BudgetTracking.BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BudgetTracking\\BudgetTracking.BusinessLayer\\BudgetTracking.BusinessLayer.csproj",
+        "projectUniqueName": "D:\\BudgetTrackingProject\\BudgetTracking.BusinessLayer\\BudgetTracking.BusinessLayer.csproj",
         "projectName": "BudgetTracking.BusinessLayer",
-        "projectPath": "D:\\BudgetTracking\\BudgetTracking.BusinessLayer\\BudgetTracking.BusinessLayer.csproj",
+        "projectPath": "D:\\BudgetTrackingProject\\BudgetTracking.BusinessLayer\\BudgetTracking.BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\Gamze Blbn\\.nuget\\packages\\",
-        "outputPath": "D:\\BudgetTracking\\BudgetTracking.BusinessLayer\\obj\\",
+        "outputPath": "D:\\BudgetTrackingProject\\BudgetTracking.BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gamze Blbn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -118,8 +118,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\BudgetTracking\\BudgetTracking.DataAccessLayer\\BudgetTracking.DataAccessLayer.csproj": {
-                "projectPath": "D:\\BudgetTracking\\BudgetTracking.DataAccessLayer\\BudgetTracking.DataAccessLayer.csproj"
+              "D:\\BudgetTrackingProject\\BudgetTracking.DataAccessLayer\\BudgetTracking.DataAccessLayer.csproj": {
+                "projectPath": "D:\\BudgetTrackingProject\\BudgetTracking.DataAccessLayer\\BudgetTracking.DataAccessLayer.csproj"
               }
             }
           }
@@ -158,14 +158,14 @@
         }
       }
     },
-    "D:\\BudgetTracking\\BudgetTracking.DataAccessLayer\\BudgetTracking.DataAccessLayer.csproj": {
+    "D:\\BudgetTrackingProject\\BudgetTracking.DataAccessLayer\\BudgetTracking.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BudgetTracking\\BudgetTracking.DataAccessLayer\\BudgetTracking.DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\BudgetTrackingProject\\BudgetTracking.DataAccessLayer\\BudgetTracking.DataAccessLayer.csproj",
         "projectName": "BudgetTracking.DataAccessLayer",
-        "projectPath": "D:\\BudgetTracking\\BudgetTracking.DataAccessLayer\\BudgetTracking.DataAccessLayer.csproj",
+        "projectPath": "D:\\BudgetTrackingProject\\BudgetTracking.DataAccessLayer\\BudgetTracking.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\Gamze Blbn\\.nuget\\packages\\",
-        "outputPath": "D:\\BudgetTracking\\BudgetTracking.DataAccessLayer\\obj\\",
+        "outputPath": "D:\\BudgetTrackingProject\\BudgetTracking.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gamze Blbn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -182,8 +182,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\BudgetTracking\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj": {
-                "projectPath": "D:\\BudgetTracking\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj"
+              "D:\\BudgetTrackingProject\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj": {
+                "projectPath": "D:\\BudgetTrackingProject\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj"
               }
             }
           }
@@ -244,14 +244,14 @@
         }
       }
     },
-    "D:\\BudgetTracking\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj": {
+    "D:\\BudgetTrackingProject\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BudgetTracking\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj",
+        "projectUniqueName": "D:\\BudgetTrackingProject\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj",
         "projectName": "BudgetTracking.DtoLayer",
-        "projectPath": "D:\\BudgetTracking\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj",
+        "projectPath": "D:\\BudgetTrackingProject\\BudgetTracking.DtoLayer\\BudgetTracking.DtoLayer.csproj",
         "packagesPath": "C:\\Users\\Gamze Blbn\\.nuget\\packages\\",
-        "outputPath": "D:\\BudgetTracking\\BudgetTracking.DtoLayer\\obj\\",
+        "outputPath": "D:\\BudgetTrackingProject\\BudgetTracking.DtoLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gamze Blbn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -304,14 +304,14 @@
         }
       }
     },
-    "D:\\BudgetTracking\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj": {
+    "D:\\BudgetTrackingProject\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BudgetTracking\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj",
+        "projectUniqueName": "D:\\BudgetTrackingProject\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj",
         "projectName": "BudgetTracking.EntityLayer",
-        "projectPath": "D:\\BudgetTracking\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj",
+        "projectPath": "D:\\BudgetTrackingProject\\BudgetTracking.EntityLayer\\BudgetTracking.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\Gamze Blbn\\.nuget\\packages\\",
-        "outputPath": "D:\\BudgetTracking\\BudgetTracking.EntityLayer\\obj\\",
+        "outputPath": "D:\\BudgetTrackingProject\\BudgetTracking.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gamze Blbn\\AppData\\Roaming\\NuGet\\NuGet.Config",
